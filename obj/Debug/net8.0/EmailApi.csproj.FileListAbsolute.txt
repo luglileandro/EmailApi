@@ -1,0 +1,14 @@
+C:\Users\leand\source\repos\EmailApi\bin\Debug\net8.0\EmailApi.exe
+C:\Users\leand\source\repos\EmailApi\bin\Debug\net8.0\EmailApi.deps.json
+C:\Users\leand\source\repos\EmailApi\bin\Debug\net8.0\EmailApi.runtimeconfig.json
+C:\Users\leand\source\repos\EmailApi\bin\Debug\net8.0\EmailApi.dll
+C:\Users\leand\source\repos\EmailApi\bin\Debug\net8.0\EmailApi.pdb
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\EmailApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\EmailApi.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\EmailApi.AssemblyInfo.cs
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\EmailApi.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\EmailApi.dll
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\refint\EmailApi.dll
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\EmailApi.pdb
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\EmailApi.genruntimeconfig.cache
+C:\Users\leand\source\repos\EmailApi\obj\Debug\net8.0\ref\EmailApi.dll
